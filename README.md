@@ -6,7 +6,7 @@ __Profesor: Eduardo Zuñiga__
 
 
 *En este repositorio comparto los 5 TPS del año + 6° TP de Promoción.*
-*Cada TP cuenta con su readme.md donde está el enunciado del mismo y los archivos que lo componen.*
+*Cada TP cuenta con su readme.md donde está el enunciado del mismo y los archivos que componen cada trabajo, espero que les sirva! :).*
 
 
 * *TP Nº 1: Conversión de velocidades*
